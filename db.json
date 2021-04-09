@@ -1,0 +1,142 @@
+{
+  "continents": [
+    {
+      "id": "europa",
+      "name": "Europa",
+      "subtitle": "O continente mais antigo.",
+      "banner": "https://images.unsplash.com/photo-1473951574080-01fe45ec8643?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1379&q=80",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": 50,
+      "languages": 60,
+      "cities": [
+        {
+          "id": 1,
+          "name": "Londres",
+          "country": "Reino Unido",
+          "banner": "https://images.unsplash.com/photo-1603318445547-5eba3b90a70e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/290px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        {
+          "id": 2,
+          "name": "Paris",
+          "country": "França",
+          "banner": "https://images.unsplash.com/photo-1431274172761-fca41d930114?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
+        },
+        {
+          "id": 3,
+          "name": "Roma",
+          "country": "Itália",
+          "banner": "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
+        },
+        {
+          "id": 4,
+          "name": "Praga",
+          "country": "República Tcheca",
+          "banner": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png"
+        },
+        {
+          "id": 5,
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "banner": "https://images.unsplash.com/photo-1562844519-3c37f832ef7a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+        }
+      ]
+    },
+    {
+      "id": "america-do-sul",
+      "name": "América do Sul",
+      "subtitle": "Um continente que compreende a porção meridional da América.",
+      "banner": "https://images.unsplash.com/photo-1612012539633-1ddf45bff52c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1457&q=80",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": 50,
+      "languages": 60,
+      "cities": [
+        {
+          "id": 1,
+          "name": "Londres",
+          "country": "Reino Unido",
+          "banner": "https://images.unsplash.com/photo-1603318445547-5eba3b90a70e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/290px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        {
+          "id": 2,
+          "name": "Paris",
+          "country": "França",
+          "banner": "https://images.unsplash.com/photo-1431274172761-fca41d930114?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
+        },
+        {
+          "id": 3,
+          "name": "Roma",
+          "country": "Itália",
+          "banner": "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
+        },
+        {
+          "id": 4,
+          "name": "Praga",
+          "country": "República Tcheca",
+          "banner": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png"
+        },
+        {
+          "id": 5,
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "banner": "https://images.unsplash.com/photo-1562844519-3c37f832ef7a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+        }
+      ]
+    },
+    {
+      "id": "africa",
+      "name": "África",
+      "subtitle": "É o terceiro continente mais extenso",
+      "banner": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": 50,
+      "languages": 60,
+      "cities": [
+        {
+          "id": 1,
+          "name": "Londres",
+          "country": "Reino Unido",
+          "banner": "https://images.unsplash.com/photo-1603318445547-5eba3b90a70e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/290px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        {
+          "id": 2,
+          "name": "Paris",
+          "country": "França",
+          "banner": "https://images.unsplash.com/photo-1431274172761-fca41d930114?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
+        },
+        {
+          "id": 3,
+          "name": "Roma",
+          "country": "Itália",
+          "banner": "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
+        },
+        {
+          "id": 4,
+          "name": "Praga",
+          "country": "República Tcheca",
+          "banner": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png"
+        },
+        {
+          "id": 5,
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "banner": "https://images.unsplash.com/photo-1562844519-3c37f832ef7a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+        }
+      ]
+    }
+  ]
+}
